@@ -6,12 +6,12 @@
 suika85ergoはカラムスタッガードの一体型エルゴキーボードです。
 ファンクションキーや矢印キーなど、コンパクトキーボードでは省略されがちなキーも備えており、フルキーボードからの移行も容易です。
 
-* 制作 : すいか技研 （https://suikagiken.net） GitHub [suikagiken](https://github.com/suikagiken)
+* 制作 : すいか技研 （ https://suikagiken.net ） GitHub [suikagiken](https://github.com/suikagiken)
 * 販売 : 近日公開予定です
 
 ## ビルドガイド
 
-こちらのリンクからご覧下さい。
+[こちらのリンク](https://github.com/suikagiken/suika85ergo/blob/main/buildguide.md)からご覧下さい。
 
 ---
 
