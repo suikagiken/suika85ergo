@@ -1,19 +1,17 @@
 # suika85ergo
 (English Follows Japanese)
 
-![overview](https://github.com/suikagiken/suika85ergo/assets/115451678/1f23a436-2a8f-4937-927c-cafa8a003d35)
-
 ## 概要
 
 suika85ergoはカラムスタッガードの一体型エルゴキーボードです。
 ファンクションキーや矢印キーなど、コンパクトキーボードでは省略されがちなキーも備えており、フルキーボードからの移行も容易です。
 
-* 制作 : すいか技研 （ https://suikagiken.net ） GitHub [suikagiken](https://github.com/suikagiken)
+* 制作 : すいか技研 （https://suikagiken.net） GitHub [suikagiken](https://github.com/suikagiken)
 * 販売 : 近日公開予定です
 
 ## ビルドガイド
 
-[こちらのリンク](https://github.com/suikagiken/suika85ergo/blob/main/buildguide.md)からご覧下さい。
+こちらのリンクからご覧下さい。
 
 ---
 
@@ -44,3 +42,5 @@ Enter the bootloader in 3 ways:
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
 * **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
 * **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+
+
