@@ -10,21 +10,29 @@
 * プレート類（3種類）
   * メインボード 1枚
     * 部品を半田付けするメインとなる基板です
+      ![parts5](https://github.com/suikagiken/suika85ergo/assets/115451678/7288ca0f-aecb-44a8-88b3-5fcdb3be8050)
   * バックプレート 1枚
     * キーボードの一番底になる裏板です
+      ![parts4](https://github.com/suikagiken/suika85ergo/assets/115451678/f4f43628-0ce2-4d94-b0ee-43eab971a284)
   * キーマウントプレート 1枚
     * キーボードの一番上にくるプレートです
-    * キースイッチをはめ込んで安定させるために使いますが、使用せずに組み立てることも可能です
+    * キースイッチをはめ込んで安定させるために使いますが、使用せずに組み立てることも可能です  
+      ![parts6](https://github.com/suikagiken/suika85ergo/assets/115451678/a0f4e8f4-fca5-4954-ae5e-f703d22848fc)
 * ネジ類（3種類）
-  * M2 x 3mm なべ小ねじ 40本（+ 予備1本）
-  * M2 x 3.5mm 両めねじ スペーサ 20本（+ 予備1本）
-  * M2 x 4mm めねじ/おねじ スペーサ 20本（+ 予備1本）
+  * M2 x 3mm なべ小ねじ 40本（+ 予備1本）  
+    ![parts3](https://github.com/suikagiken/suika85ergo/assets/115451678/4f450159-daa8-4755-ae33-474e39e4c00f)
+  * M2 x 3.5mm 両めねじ スペーサ 20本（+ 予備1本）  
+    ![parts2](https://github.com/suikagiken/suika85ergo/assets/115451678/28b7b318-3006-47e7-9579-eca260626338)
+  * M2 x 4mm めねじ/おねじ スペーサ 20本（+ 予備1本）  
+    ![parts1](https://github.com/suikagiken/suika85ergo/assets/115451678/48f9c030-a445-4e1c-86ee-d79c04a7c8ae)
 * ゴム足
   * お好みでバックプレートに貼り付けてお使いください
     * 高さ 7mm 2個
-    * 高さ 2mm 4個
+    * 高さ 2mm 4個  
+          ![parts8](https://github.com/suikagiken/suika85ergo/assets/115451678/5f104c71-424b-4f2a-ae61-b6c9097b85f4)
 * 表面実装ダイオード
   * 1N4148W 85個（+ 予備1個）  
+      ![parts7](https://github.com/suikagiken/suika85ergo/assets/115451678/a05d4ce3-beaa-4b12-826c-c9bc580b822e)
 * コントローラボード
   * Elite-C
 
@@ -63,13 +71,13 @@
   * 表面実装部品の取り付けに不可欠です。
     * 精密ピンセット https://akizukidenshi.com/catalog/g/g102541/
 
-
 ## 組み立て
 このキーボード組み立ての一番の難関は最初の表面実装ダイオードのハンダ付けです。小さいダイオードを多数取り付けますので、落ち着いて慎重に進めて下さい。
 
 ### (1) 表面実装ダイオードのハンダ付け 
 表面実装ダイオードは1N4148Wを使用しています。下の写真の向きに85個すべてのダイオードをハンダ付けします。  
-表面実装部品のハンダ付けが初めての方は次の項を参考にしてください。慣れている方はそのまま(2)をご参照ください。
+![diode_polarity](https://github.com/suikagiken/suika85ergo/assets/115451678/a61ad12c-46fa-4927-9681-757ef9c80a93)  
+表面実装部品のハンダ付けが初めての方は次の項を参考にしてください。慣れている方はそのまま(2)をご参照ください。  
 
 #### ハンダ付けが初めての方向け
 1. パーツをシートから取り出してお皿などに出す  
