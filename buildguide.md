@@ -200,8 +200,8 @@
 2. Authorize deviceをクリックすると、「usevia.appがHIDデバイスへの接続を要求しています」という画面が開くので「suika85ergo」を一覧から選択し「接続」をクリックする
 3. 上部メニューの歯車アイコン（Settings）をクリックし、「Show Design Tab」をオンにする
 4. 上部メニューにハケのアイコン（Design）がでるのでそれをクリックし、「Confirm」をクリックする
-5. [すいか技研のリポジトリ](https://github.com/suikagiken/suika85ergo) の via_definition フォルダから、定義ファイル [suika85ergo_for_via.json をダウンロード](https://github.com/suikagiken/suika85ergo/blob/main/via_definition/suika85ergo_for_via.json)し、適当な場所に保存する
-6. Load Draft Definitionの項目にあるLoadボタンをクリックし、suika85ergo_for_via.json を指定する
+5. [すいか技研のリポジトリ](https://github.com/suikagiken/suika85ergo) の via_definition フォルダから、定義ファイル [suika85ergo_for_via.json をダウンロード](https://github.com/suikagiken/suika85ergo/blob/main/via_definition/suika85ergo.json)し、適当な場所に保存する
+6. Load Draft Definitionの項目にあるLoadボタンをクリックし、suika85ergo.json を指定する
 7. 上部メニューのキーボードアイコン（Configure）をクリックする  
    下図のようにキーボードのデザインが正しく表示されていれば、キーマップの編集準備完了です。  
       ![via](img/via.png)
