@@ -202,6 +202,7 @@
 **VIAは Chrome または Edge のブラウザでのみ使用できます**。残念ながらFirefoxには対応していませんのでご注意ください。
 1. Chrome または Edge ブラウザで https://usevia.app/ にアクセスする
 2. Authorize deviceをクリックすると、「usevia.appがHIDデバイスへの接続を要求しています」という画面が開くので「suika85ergo」を一覧から選択し「接続」をクリックする
+   
    下図のようにキーボードのデザインが正しく表示されていれば、キーマップの編集準備完了です。  
       ![via](img/via.png)
 
