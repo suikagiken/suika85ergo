@@ -8,11 +8,12 @@ suika85ergoはカラムスタッガードの一体型エルゴキーボードで
 ファンクションキーや矢印キーなど、コンパクトキーボードでは省略されがちなキーも備えており、フルキーボードからの移行も容易です。
 
 * 制作 : すいか技研 （Website: https://suikagiken.net GitHub: [suikagiken](https://github.com/suikagiken) ）
-* 販売 : [遊舎工房](https://yushakobo.jp/)様にて近日委託販売開始予定です
+* 販売 : [遊舎工房](https://yushakobo.jp/)様にて委託販売中です
 
 ## ビルドガイド
 
-[こちら](https://github.com/suikagiken/suika85ergo/blob/main/buildguide.md)からご覧下さい。
+裏面にrev.1.0と書かれた基板をお持ちの方は[こちら](https://github.com/suikagiken/suika85ergo/blob/main/buildguide.md)、
+rev.1.1と書かれた基板をお持ちの方は[こちら](https://github.com/suikagiken/suika85ergo/blob/main/buildguide_1.1.md)からご覧下さい。
 
 ---
 
@@ -22,7 +23,7 @@ suika85ergo is a column-staggered ergonomic keyboard with 85 keys. It has functi
 
 * Keyboard Maintainer: [suikagiken](https://github.com/suikagiken)
 * Hardware Supported: Purchase PCBs from the following stores.
-* Hardware Availability: It will soon be available at Yousha Kobo!
+* Hardware Availability: Available at Yousha Kobo.
 
 Make example for this keyboard (after setting up your build environment):
 
