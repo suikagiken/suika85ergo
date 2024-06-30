@@ -120,7 +120,7 @@
 なお、組み立て済みでバックボードまで取り付けている場合は、Elite-Piの書き込みボタンにアクセスできるよう、いったんバックボードは外してください。
 
 #### suikagiken_suika85ergo_via.uf2 の書き込み
-1. [すいか技研のリポジトリ](https://github.com/suikagiken/suika85ergo) のuf2フォルダから、ファームウエアのファイル[suikagiken_suika85ergo_via.uf2 をダウンロード](https://github.com/suikagiken/suika85ergo/blob/main/hex/suikagiken_suika85ergo_via.uf2)し、適当な場所に保存する
+1. [すいか技研のリポジトリ](https://github.com/suikagiken/suika85ergo) のuf2フォルダから、ファームウエアのファイル[suikagiken_suika85ergo_via.uf2 をダウンロード](https://github.com/suikagiken/suika85ergo/blob/main/uf2/suikagiken_suika85ergo_via.uf2)し、適当な場所に保存する
 2. 次のいずれかの操作を行って、ブートローダーモードにする  
    1. BOOTボタンを押しながらRUNボタンを押す
    2. BOOTボタンを押しながらケーブルを挿入する
