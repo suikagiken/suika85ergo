@@ -13,9 +13,11 @@ suika85ergoはカラムスタッガードの一体型エルゴキーボードで
 ## ビルドガイド
 
 裏面に  
+
 * rev.1.0と書かれた基板をお持ちの方は[こちら](https://github.com/suikagiken/suika85ergo/blob/main/buildguide.md)
 * rev.1.1と書かれた基板をお持ちの方は[こちら](https://github.com/suikagiken/suika85ergo/blob/main/buildguide_1.1.md)
 * rev.2.0と書かれた基板をお持ちの方は[こちら](https://github.com/suikagiken/suika85ergo/blob/main/buildguide_2.0.md)
+
 からご覧下さい。  
 
 ---
