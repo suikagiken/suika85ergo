@@ -2,7 +2,7 @@
 (English Follows Japanese)
 
 ## 概要
-![suika85ergo](img/suika85ergo_1s.jpg)
+![suika85ergo_21](img/suika85ergo_21.jpg)
 
 suika85ergoはカラムスタッガードの一体型エルゴキーボードです。
 ファンクションキーや矢印キーなど、コンパクトキーボードでは省略されがちなキーも備えており、フルキーボードからの移行も容易です。
